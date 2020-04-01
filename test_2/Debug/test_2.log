@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(71,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(70): message : во время компиляции функции-члена класс шаблон "void Fifo<10,15,35>::copy_out(unsigned char *,unsigned int,unsigned int)"
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(100): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Fifo<10,15,35>::copy_out(unsigned char *,unsigned int,unsigned int)"
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(118): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Fifo<10,15,35>"
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(73,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(63,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(62): message : во время компиляции функции-члена класс шаблон "void Fifo<10,15,35>::copy_in(unsigned char *,unsigned int)"
+D:\Projects\VisualStudio\uniscan\test_2\test_2\main.cpp(87): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Fifo<10,15,35>::copy_in(unsigned char *,unsigned int)"
+  test_2.vcxproj -> D:\Projects\VisualStudio\uniscan\test_2\Debug\test_2.exe
